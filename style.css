@@ -1,0 +1,779 @@
+
+nav a{
+
+  color: #222222;
+   font-size: 15px;
+  text-decoration: none;
+  
+  
+
+  padding-inline: 10px;
+  letter-spacing: normal;
+  
+
+}
+.ooo:hover{
+transition: 0.1s;
+color: #E50010;
+opacity: 0.1s;
+}
+.ooo:active{
+  opacity: 0.1s;
+color: #E50010;
+}
+.menu{
+  padding-top: 40px;
+  padding-left: 4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color: #222222;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.hm-logo{
+width: 70px;
+
+}
+.hm{
+  width: 70px;
+  padding-left: 325px;
+}
+.texts{
+  padding-left:600px;
+  
+}
+
+.button1{
+  background-color: #faf9fa;
+  color: #222222;
+  border: none;
+  font-size: 18px;
+  font-family:sans-serif;padding-left:20px;
+}
+.button2{
+  background-color: #faf9fa;
+  color: #222222;
+  border: none;
+  font-size: 18px;
+  font-family:sans-serif;padding-left:20px;
+}
+.button3{
+  background-color: #faf9fa;
+  color: #222222;
+  border: none;
+  font-size: 18px;
+  font-family: sans-serif;padding-left:20px;
+}
+.button4{
+  background-color: #faf9fa;
+  color: #222222;
+  border: none;
+  font-size: 18px;
+  font-family: sans-serif;padding-left:20px;
+}
+.button5{
+  background-color: #faf9fa;
+  color: #222222;
+  border: none;
+  font-size: 18px;
+  font-family: sans-serif;padding-left:20px;
+}
+.button6{
+  background-color: #faf9fa;
+  color: #222222;
+  border: none;
+  font-size: 18px;
+  font-family: sans-serif;padding-left:20px;
+}
+.button7{
+  background-color: #faf9fa;
+  color: #222222;
+  border: none;
+  font-size: 18px;
+  font-family: sans-serif;padding-left:20px;
+}
+.button8{
+  background-color: #faf9fa;
+  color: #222222;
+  border: none;
+  font-size: 18px;
+  font-family: sans-serif;
+  padding-left:20px;
+}
+.button9{
+  background-color: #faf9fa;
+  color: #222222;
+  border: none;
+  font-size: 18px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left:10px;
+}
+.bothbuttons{
+  display: flex;
+  padding-top: 60px;
+word-spacing: 50px;
+
+
+justify-content: center;
+
+}
+.bothbuttons :hover{
+  text-decoration: underline;
+  cursor: pointer;
+;
+  
+}
+.search{
+  
+
+}
+.search-tab{
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color: #faf9fa;
+
+}
+
+
+
+.member{
+  margin-left: 300px;
+}
+.free{
+  margin-left: 90px;
+
+}
+.App{
+margin-left: 100px;
+}
+.list{
+  
+  
+}
+.search{
+display: flex;
+justify-content: end;
+padding-right: 60px;
+border: none;
+margin-bottom: 40px;
+}
+
+hr{
+
+  padding-top: 0px;
+  margin-left: 1260px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  width: 140px;
+  border-right-width: 0px;
+  
+  padding-right: 40px;
+
+}
+
+
+.image1-container{
+  
+  width: 1000px;
+  height: 640px;
+  margin-left: 20px;
+  
+  position: relative;
+}
+.image1-container img{
+  width: 100%;
+  height: 100%;
+  margin-left: 240px;
+  margin-top: 15px;
+  
+}
+.image1-text{
+  position: absolute;
+  top: 80%;
+  text-align: center;
+  margin-left: 618px;
+  padding-bottom: 20px;
+  color: #FFF;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.bottomtext{
+  font-size: 50px;
+  color: #eaeaea;
+}
+.image1-text p{
+  font-size: 10px;
+  color: #e2e2e2;
+}
+.image1-text button{
+  color: #404040;
+  border: transparent;
+  cursor: pointer;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+} 
+.button-shop{
+  margin-top: 40px;
+  margin-top: 30px;
+  cursor: pointer;
+  background-color: #FFFFFF;
+  border: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-bottom: 9px;
+  padding-top: 9px;
+}
+.image1-text button :hover{
+  opacity: 0.2s;
+  background-color: #FFF;
+}
+.image2-container{
+  
+  width: 1000px;
+  height: 640px;
+  margin-left: 20px;
+  position: relative;
+}
+.image2-container img{
+  width: 100%;
+  height: 100%;
+  margin-left: 240px;
+  margin-top: 60px;
+}
+.image2-text{
+  position: absolute;
+  top: 175%;
+  text-align: center;
+  margin-left: 580px;
+  padding-bottom: 20px;
+  color: #FFF;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.image2-text p{
+  color: #FFF;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 40px;
+  margin-top: 20px;
+}
+
+
+.image2-text button{
+  color: #222222;
+  background-color: #FFFFFF;
+  border: none;
+  cursor: pointer;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+
+} 
+
+.image2-text button :hover{
+  opacity: 0.2s;
+  background-color: #707070;
+  border-color: #707070;
+}
+
+.weight-text{
+  color: #FFFFFF;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: small;
+
+}
+
+.categories{
+  margin-top: 35px;
+  padding-left: 260px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  margin-top: 80px;
+  
+}
+.categories-container{
+  display: flex;
+justify-content: center;
+
+  
+}
+.card {
+  padding-left: 25px;
+}
+
+.card .img1{
+  height: 99px;
+  width: 99px;
+
+}
+.card .img2{
+  height: 99px;
+  width: 99px;
+
+}
+.card .img3{
+  height: 99px;
+  width: 99px;
+
+}
+.card .img4{
+  height: 99px;
+  width: 99px;
+
+}
+.card .img5{
+  height: 99px;
+  width: 99px;
+
+}
+.card .img6{
+  height: 99px;
+  width: 99px;
+
+}
+.card .img7{
+  height: 99px;
+  width: 99px;
+
+}
+.card .img8{
+  height: 99px;
+  width: 99px;
+
+}
+
+
+.texttop{
+  color: #707070;
+}
+.card-contant{
+  font-size: 13px;
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+}
+.shop-now{
+  background-image: url(./images\ hm/1028A-3x2-GEN-autumn-winter-2023-drop-2.jpg);
+  width: 1000px;
+  margin-left: 260px;
+  text-align: center;
+  background-repeat: no-repeat;
+
+}
+.button-winter{
+margin-top: 700px;
+margin-bottom: 20px;
+cursor: pointer;
+}
+.new{
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 260px
+}
+
+.buttons{
+  border-radius: 25px;
+  font-size:small;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #222222;
+
+}
+.red-button{
+  border-style: solid;
+  border-radius: 25px;
+  font-size: small;
+  background-color: #E50010;
+  border: none;
+  font-family: sans-serif;
+  height: 45px;
+  width: 90px;
+  color: #FFF;
+  cursor: pointer;
+}
+.container-new{
+  font-family:'Times New Roman', Times, serif;
+  padding-left: 20px;
+  height: 40px;
+}
+.all-buttons{
+     margin-left: 240px;
+     height: 30px;
+     word-spacing: 10px;
+     
+     
+       }
+       .buttons{
+        height: 45px;
+        width: 90px;
+        background-color: #faf9fa;
+        cursor: pointer;
+      
+       }
+       .card2 {
+        margin-top: 20px;
+        display: flex;
+        margin-left: 240px;
+      
+        
+        
+       }
+       .pic1{
+        height: 333px;
+        width: 222px;
+    
+      
+       }
+       .pic2{
+        height: 333px;
+        width: 222px;
+       }
+       .pic3{
+        height: 333px;
+        width: 222px;
+       }
+       .pic4{
+        height: 333px;
+        width: 222px;
+       }
+       .card-contant2{
+        font-size: small;
+        color: #222222;
+        font-family: Arial, Helvetica, sans-serif;
+       }
+       .image-container2{
+        padding-left: 20px;
+       }
+       .buttono{
+        border: none;
+        background-color: #faf9fa;
+        color: #E50010;
+        font-size: medium;
+       }
+      .oooo{
+        text-align: center;
+        letter-spacing: 3px;
+      }
+    
+      .holidaypic{
+        width: 1000px;
+        height: 200px;
+      }
+      .midtext{
+        background-image: url(./images\ hm/6204-holiday-3x1-toolbox-2.jpg);
+      padding-bottom: 20px;
+      padding-top: 30px;
+      text-align: center;
+    
+      }
+
+  
+      .midpic{
+        display: flex;
+        justify-content: center;
+        margin-left: 19px;
+      }
+      .text-1{
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      .midtext2{
+        font-size: small;
+      }
+      .midbutton{
+        border: none;
+        background-color: #222222;
+        color: #FFF;
+        cursor: pointer;
+      }
+      .boycontainer{
+  
+        width: 1000px;
+        height: 800px;
+        margin-left: 20px;
+        position: relative;
+      }
+      .boycontainer img{
+        width: 100%;
+        height: 100%;
+        margin-left: 240px;
+        margin-top: 0px;
+      }
+      .boycontainer-text{
+        position: absolute;
+        top: 50%;
+        text-align: center;
+        margin-left: 580px;
+        padding-bottom: 20px;
+        color: #FFF;
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      
+      .boycontainer-text p{
+        color: #FFF;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 40px;
+        margin-top: 20px;
+      }
+      
+      
+      .boycontainer-text button{
+        color: #222222;
+        background-color: #FFFFFF;
+        border: none;
+        cursor: pointer;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        margin-right:8px;
+        
+      
+      } 
+      
+      .boycontainer-text button :hover{
+        opacity: 0.2s;
+        background: color #909099;
+        
+      }
+      .lastimage-container{
+        margin-top: 25px;
+        width: 1000px;
+        height: 800px;
+        margin-left: 20px;
+        position: relative;
+      }
+      .lastimage-container img{
+        width: 100%;
+        height: 100%;
+        margin-left: 240px;
+        margin-top: 0px;
+      }
+      .last-text {
+        position: absolute;
+        top: 60%;
+        text-align: center;
+        padding-left: 275px;
+      
+        padding-bottom: 20px;
+        color: #FFF;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 13px;
+      }
+      
+      .last-imagetext p{
+        color: #FFF;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 13px;
+        margin-top: 25px;
+
+
+      }
+      .lastimage-container button{
+        color: #222222;
+        background-color: #FFFFFF;
+        border: none;
+        cursor: pointer;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        margin-right:8px;
+      }
+    
+      .rabannelogo img{
+      width: 500px;
+       height: 95px;
+      }
+      .magazine-container{
+        background-color: #f4EDDD;
+        margin-top: 25px;
+        height: 580px;
+      }
+      .textsmagazine{
+        width: 1000px;
+        height: 565px;
+        margin-left: 260px;
+      }
+      .magazine-text{
+        width: 1000px;
+        padding-top: 20px;
+        height: 800px;
+      }
+      
+      .magazine-container p{
+        font-size: 10px;
+        
+      }
+      .magazine-text{
+        text-align: center;
+      
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      .underline-text{
+        cursor: pointer;
+        padding-top: 10px;
+      }
+      .three-imagecontainer{
+        width: 1000px;
+        height: 450px;
+        display: flex;
+        justify-content: space-evenly;
+        margin-top: 50px;
+      }
+      
+      .group-pic1{
+        background-color: #FFFFFF;
+        width: 288px;
+        height: 180px;
+        padding-bottom: 150px;
+      }
+      .group-pic1 img{
+        width: 100%;
+        height: 100%;
+      }
+      .group-pic1 p{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: small;
+        
+      }
+      .group-pic1 hr{
+        font-size: small;
+        cursor: pointer;
+        color: #222222;
+      
+        }
+      .group-pic2{
+        background-color: #FFFFFF;
+        width: 288px;
+        height: 180px;
+        padding-bottom: 150px;
+      }
+      .group-pic2 img{
+        width: 100%;
+        height: 100%;
+      }
+      .group-pic2 p{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: small;
+        
+      }
+      .group-pic2 hr{
+        font-size: small;
+        cursor: pointer;
+        color: #222222;
+        }
+      .group-pic3{
+        background-color: #FFFFFF;
+        width: 288px;
+        height: 180px;
+        padding-bottom: 150px;
+      }
+      .group-pic3 img{
+        width: 100%;
+        height: 100%;
+      }
+      
+      .group-pic3 hr{
+      font-size: small;
+      cursor: pointer;
+      color: #222222;
+      
+      }
+      .group-pic3 p{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: small;
+        
+      }
+      /* .footer-container{
+        background-color: #f4EDDD;
+        width: 100%;
+        height: 820px;
+        display: flex;
+        justify-content: center;
+        
+      
+        
+      }
+  
+      .footer-col{
+        display: flex;
+      }
+
+      .footer-container h4{
+        display: flex;
+        text-decoration: none;
+        color: #222222;
+      }
+      .footer-col a{
+        text-decoration: none;
+        
+      }
+      li{
+        text-decoration: none;
+      }
+       */
+       .footer-container{
+        background-color: #E4E4E4;
+        width: 1505px;
+        height: 534px;
+        display: flex;
+        justify-content: center;
+        text-align: left;
+      padding-top: 60px;
+        
+       }
+       a{
+        text-decoration: none;
+        color: #404040;
+       }
+       li{
+        list-style: none;
+        font-size: 12px;
+        line-height: 30px;
+        font-family:sans-serif
+    
+        
+       }
+       .list-box1{
+        padding-right: 180px;
+       }
+       .list-box2{
+        padding-right: 180px;
+       }
+       .list-box3{
+        padding-right: 180px;
+       }
+
+       .list-box1 h4{
+        text-align: center;
+        font-size: small;
+        color: #222222;
+        
+       }
+       .list-box2 h4{
+        text-align: center;
+        font-size: small;
+        color: #222222;
+       }
+       .list-box3 h4{
+        text-align: center;
+        font-size: small;
+        color: #222222;
+       }
+       .list-box4 p{
+        color: #222222;
+         text-align: left;
+         font-size: 13px;
+         padding-top: 40px;
+         
+       }
+       .social{
+        padding-top: 350px;
+        word-spacing: 10px;
+        font-size: 20px;
+       }
+       .content-text p{
+        font-size: 12px;
+        padding-top: 20px;
+       }
+       .hmlast-logo{
+        padding-top: 20px;
+       }
+       .india-text{
+        padding-top: 10px;
+       }
+       
+       /* .list-box{
+        display: flex;
+        justify-content: space-between;       
+      } */
